@@ -1,4 +1,4 @@
-# ARRL Emergency Cooridinator 
+# ARRL Emergency Cooridinator Requirements and Responsibilities
 
 The ARRL Emergency Coordinator (EC) is appointed by the Section Manager (or at the SM's discretion, the SEC may make the appointment).
 
